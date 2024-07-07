@@ -1,0 +1,8 @@
+.info
+{
+    @apply border border-t-0 border-x-0 border-gray-400;
+}
+.button
+{
+    @apply bg-gray-800 text-white p-5 flex items-center space-x-2;
+}
