@@ -1,0 +1,12 @@
+.img
+{
+    @apply block w-full h-full object-cover;
+}
+.main-swiper
+{
+    @apply flex items-center justify-center bg-white;
+}
+.secondary-swiper
+{
+    @apply w-1/4 h-full opacity-40;
+}
